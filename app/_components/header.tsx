@@ -5,6 +5,7 @@ export default function Header() {
             <Link href="/" className="text-2xl font-bold">Default</Link>
             <Link href="/about" className="text-2xl font-bold">About</Link>
             <Link href="/home" className="text-2xl font-bold">Home</Link>
+            <Link href="/blog" className="text-2xl font-bold">Blogs</Link>
         </header>
     );
 }
